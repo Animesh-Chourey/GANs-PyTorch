@@ -1,6 +1,6 @@
 # Unsupervised Learning by Generative Adversarial Nets
 
-Generative Adversarial Networks (GANs) are implemeted here for an unsupervised task (here image generation).
+Generative Adversarial Networks (GANs) are implemeted for an unsupervised task (here image generation).
 
 * The architecture of the generator and discriminator is used as follow:
 ![](Architecture.png)
